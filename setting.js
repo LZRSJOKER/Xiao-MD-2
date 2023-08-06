@@ -14,29 +14,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918130784851']
+global.owner = ['917561815867']
 
 global.ownername = ":_-_:MASTER-NEXUS_-_:"
 global.ytname = "YT: NEXUSMODS" //ur yt chanel name
 global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
-global.location = "India, Ghaziabad, Rajnagar" //ur location
+global.location = "EARTH, INDIA, KERALA " //ur location
 
 //bot bomdy 
-global.ownernomer =  ['918130784851']
-global.premium = ['918130784851'] //ur premium number
-global.botname = "𓆩⍣⃝🇽‌𝐢𝐚𝐨-𝐁𝐎𝐓⃢𓆪"//ur bot name
-global.linkz = "https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj"//your theme url which will be displayed on whatsapp
-global.websitex = "https://nexus21.carrd.co/" //ur website to be displayed
+global.ownernomer =  ['917561815867']
+global.premium = ['917561815867'] //ur premium number
+global.botname = "*𝐔𝐂𝚮𝚰𝚮𝚫 𝚰𝚻𝚫𝐂𝚮𝚰*"//ur bot name
+global.linkz = "https://i.imgur.com/E3ZX2PM.jpeg"//your theme url which will be displayed on whatsapp
+global.websitex = "www.itaxhi007.org" //ur website to be displayed
 global.botscript = 'https://github.com/NEXUSAT12/Xiao-MD-2' //script link
-global.themeemoji = "🌹" //ur theme emoji
-global.packname = '☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰ '//ur sticker  packname
-global.author = '☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰ ' //ur sticker author
-global.wm = '☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰ '//ur watermark
+global.themeemoji = "🪬" //ur theme emoji
+global.packname = '___𝙸𝚃𝚊𝙲𝙷𝙸__🪬'//ur sticker  packname
+global.author = '☮️🕊️' //ur sticker author
+global.wm = '___𝙸𝚃𝚊𝙲𝙷𝙸__🪬'//ur watermark
 global.mess = 'EN'
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['#']
+global.prefa = ['🍅']
 global.sp = ''
 
 //media target
